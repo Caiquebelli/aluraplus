@@ -169,6 +169,8 @@ body {
     justify-content: center;
     color: var(--cinza-secundario);
     font-size: 14px;
+    font-weight: 400;
+    font-family: var(--fonte-principal);
 }
 
 .lista__link a:active {
