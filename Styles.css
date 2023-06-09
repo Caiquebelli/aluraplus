@@ -167,10 +167,10 @@ body {
     padding: 1em;
     display: flex;
     justify-content: center;
-    color: var(--cinza-secundario);
+    color: red;
     font-size: 14px;
     font-weight: 400;
-    font-family: var(--fonte-principal);
+    font-family: var(--fonte-principal);    
 }
 
 .lista__link a:active {
